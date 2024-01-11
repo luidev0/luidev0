@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hola, soy Luigui! me encanta descubrir nuevas tecnologías y aplicarlas en diversos proyectos. Me desempeño como desarrollador web y en ciencias de datos. Tengo más de 5 años de experiencia y en mis tiempos libres me encanta jugar juegos de rol. No dudes en comunicarte conmigo o usar mis proyectos como parte de tu aprendizaje.</h2>
+<h2 align="left">🧙‍♂️Greetings, wanderers! The name's Luigui! A lvl 30 warlock who loves technology, such a programming or anything related to. I'm a big nerd of rol playing, JRPG or tactics games. Wouldn't mind sharing my knowledge with y'all</h2>
 
 ###
 
-<h1 align="left">Tecnologías</h1>
+<h1 align="left">🪄Magic skills</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">Redes sociales</h1>
+<h1 align="left">✉️Get in touch</h1>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href=" discordapp.com/users/1187113576285077645" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="50" alt="discord logo"  />
   </a>
