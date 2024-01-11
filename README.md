@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">🪄Magic skills</h1>
+<h2 align="left">🪄Magic skills</h2>
 
 ###
 
@@ -28,6 +28,10 @@
 
 ###
 
+<h2 align="left">📈Stats</h2>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luidev0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&custom_title=Estad%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=luidev0&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -35,24 +39,20 @@
 
 ###
 
-<h1 align="left">✉️Get in touch</h1>
+<h2 align="left">✉️Get in touch</h2>
 
 ###
 
-<img align="left" height="150" src="https://i.postimg.cc/RVCDjdmv/lui-avatar.jpg"  />
+<img align="left" height="150" src="https://i.postimg.cc/RVCDjdmv/lui-avatar.jpg"/>
 
 ###
 
 <div align="left">
-  <a href=" discordapp.com/users/1187113576285077645" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="50" alt="discord logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  />
-  <a href="lparodi.pe@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="50" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="60" height="50" alt="twitch logo"  />
+  <a href="discordapp.com/users/1187113576285077645" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="50" alt="discord logo"/></a>
+  <a href="https://www.linkedin.com/in/luidev0/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"/></a>
+  <a href="lparodi.pe@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"/></a>
+  <a href="https://www.youtube.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="50" alt="youtube logo"/></a>
+  <a href="https://www.twitch.tv" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="60" height="50" alt="twitch logo"  />
 </div>
 
 ###
