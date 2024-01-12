@@ -40,7 +40,7 @@ Studied Software Engineering and got into the marvelous world of Web Developemen
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luidev0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&custom_title=Estad%C3%ADsticas"    height="150" alt="stats graph"/>
   <br />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luidev0&theme=onedark&border_radius=5&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luidev0&theme=onedark&border_radius=5&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak"/></a>
 </div>
 
 ###
