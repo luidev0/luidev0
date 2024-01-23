@@ -3,7 +3,7 @@
 💻Software Engineer & Web Developer
 ---------------------------------
 
-Studied Software Engineering and got into the marvelous world of Web Developement aiming to become a Fullstack Dev. Solid bases on HTML, CSS and JS and programming languages like Python and Java. Learning libraries and Data bases like React, MongoDB and Mysql. I'm a big nerd of rol playing, JRPG or tactics games. Wouldn't mind sharing my knowledge with y'all!
+Bachelor in Software Engineering and got into the wizardly world of Web Developement aiming to become a Fullstack Developer. Solid bases on UI/UX and JavaScript. Working with frameworks such as NextJS. Oh! I almost forget that I'm looking to learn Data Science and Python. I'm a big nerd of rol playing, JRPG or tactics games. Wouldn't mind sharing my knowledge with y'all!
 
 ###
 
