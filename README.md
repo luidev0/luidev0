@@ -1,6 +1,6 @@
 <h1 align="left">🧙‍♂️Greetings, wanderers! I'm Luigui!</h1>
 
-💻Software Engineer & Web Developer
+💻Software Engineer | Web Developer Jr. | Data Analyst Student
 ---------------------------------
 
 Bachelor in Software Engineering and got into the wizardly world of Web Developement aiming to become a Fullstack Developer. Solid bases on UI/UX and JavaScript. Working with frameworks such as NextJS. Oh! I almost forget that I'm looking to learn Data Science and Python. I'm a big nerd of rol playing, JRPG or tactics games. Wouldn't mind sharing my knowledge with y'all!
