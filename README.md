@@ -1,13 +1,13 @@
-<h1 align="left">🧙‍♂️Greetings, wanderers! I'm Luigui!</h1>
+<h1 align="left">🧙‍♂️Saludos, viajeros! Soy Lui!</h1>
 
-💻Software Engineer | Web Developer Jr. | Data Analyst Student
+💻Ingeniero de Software | Desarrollador FullStack | Estudiante en Análisis de Datos
 ---------------------------------
 
-Bachelor in Software Engineering and got into the wizardly world of Web Developement aiming to become a Fullstack Developer. Solid bases on UI/UX and JavaScript. Working with frameworks such as NextJS. Oh! I almost forget that I'm looking to learn Data Science and Python. I'm a big nerd of rol playing, JRPG or tactics games. Wouldn't mind sharing my knowledge with y'all!
+Licenciado en Ingeniería de Software y metido en el mágico mundo del Desarrollo Web con el objetivo de convertirme en Desarrollador Fullstack. Bases sólidas en UI/UX y JavaScript. Trabajando con frameworks como NextJS. Casi se me olvida que estoy buscando aprender Data Science y Python. Soy un gran nerd de los juegos de rol, JRPG o táctica. ¡No me importaría compartir mis conocimientos con todos vosotros!
 
 ###
 
-<h2 align="left">🪄Magic skills</h2>
+<h2 align="left">🪄Magias que domino</h2>
 
 ###
 
@@ -26,7 +26,7 @@ Bachelor in Software Engineering and got into the wizardly world of Web Develope
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=astro" height="50" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 </div>
